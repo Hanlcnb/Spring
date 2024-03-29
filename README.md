@@ -21,6 +21,7 @@ Heading level 2
 >
 >  *Everything* is going according to **plan**.
 
-图片语法：![图片alt](图片链接 "图片title"
-![这是图片](https://tse2-mm.cn.bing.net/th/id/OIP-C.nbyR-Lnh7z3z1Z-bCPIhugHaEK?w=202&h=113&c=7&r=0&o=5&dpr=1.5&pid=1.7 "KUN")
+图片语法：![图片alt](图片链接 "图片title".
+
+![图片](https://tse2-mm.cn.bing.net/th/id/OIP-C.nbyR-Lnh7z3z1Z-bCPIhugHaEK?w=202&h=113&c=7&r=0&o=5&dpr=1.5&pid=1.7 "KUN")
 
